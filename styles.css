@@ -203,6 +203,7 @@ p{
     color: #fff;
     padding: 15px 10px;
     cursor: pointer;
+    border-radius: 50px;
 }
 
 .cart-empty{
